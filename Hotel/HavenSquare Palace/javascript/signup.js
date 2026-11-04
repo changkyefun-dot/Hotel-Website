@@ -1,4 +1,4 @@
-// Sign Up Form Validation
+// Sign Up Form Validati
 
 const signupForm = document.getElementById('signup-form');
 
